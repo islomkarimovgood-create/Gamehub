@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
- xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
  <url>
-  <loc>https://YOURDOMAIN.com/</loc>
+  <loc>https://islomkarimovgood-create.github.io/Gamehub/</loc>
  </url>
 
  <url>
-  <loc>https://YOURDOMAIN.com/games/moto-racing.html</loc>
+  <loc>https://islomkarimovgood-create.github.io/Gamehub/games/moto-racing.html</loc>
  </url>
 
  <url>
-  <loc>https://YOURDOMAIN.com/games/zombie-shooter.html</loc>
+  <loc>https://islomkarimovgood-create.github.io/Gamehub/games/zombie-shooter.html</loc>
  </url>
 
 </urlset>
