@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOURDOMAIN.com/sitemap.xml
+Sitemap: https://islomkarimovgood-create.github.io/Gamehub/sitemap.xml
+
