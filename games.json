@@ -15,3 +15,13 @@
     "category": "racing"
   }
 ]
+[
+  {
+    "slug": "moto-racing",
+    "name": "Moto Racing",
+    "icon": "images/moto.png",
+    "category": "racing",
+    "url": "https://example.com/moto-game",
+    "description": "High speed motorcycle racing game online."
+  }
+]
