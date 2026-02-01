@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "moto-racing",
+    "icon": "images/moto.png",
+    "category": "racing"
+  },
+  {
+    "slug": "zombie-shooter",
+    "icon": "images/zombie.png",
+    "category": "shooter"
+  },
+  {
+    "slug": "car-drift",
+    "icon": "images/car.png",
+    "category": "racing"
+  }
+]
