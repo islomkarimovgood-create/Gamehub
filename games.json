@@ -1,27 +1,26 @@
 [
   {
     "slug": "moto-racing",
-    "icon": "images/moto.png",
-    "category": "racing"
-  },
-  {
-    "slug": "zombie-shooter",
-    "icon": "images/zombie.png",
-    "category": "shooter"
-  },
-  {
-    "slug": "car-drift",
-    "icon": "images/car.png",
-    "category": "racing"
-  }
-]
-[
-  {
-    "slug": "moto-racing",
     "name": "Moto Racing",
     "icon": "images/moto.png",
     "category": "racing",
     "url": "https://example.com/moto-game",
     "description": "High speed motorcycle racing game online."
+  },
+  {
+    "slug": "zombie-shooter",
+    "name": "Zombie Shooter",
+    "icon": "images/zombie.png",
+    "category": "shooter",
+    "url": "https://example.com/zombie-game",
+    "description": "Fight zombies in this action-packed shooter."
+  },
+  {
+    "slug": "car-drift",
+    "name": "Car Drift",
+    "icon": "images/car.png",
+    "category": "racing",
+    "url": "https://example.com/car-game",
+    "description": "Drift through city streets and sharp corners."
   }
 ]
