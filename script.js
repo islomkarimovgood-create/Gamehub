@@ -1,14 +1,21 @@
 const container = document.getElementById("games");
 
-function render() {
+async function loadGames() {
+  const res = await fetch("games.json");
+  const games = await res.json();
+
+  render(games);
+}
+
+function render(games) {
   container.innerHTML = "";
 
-  GAMES.forEach(game => {
+  games.forEach(game => {
     const div = document.createElement("div");
     div.className = "game";
 
     div.innerHTML = `
-      <img src="${game.icon}" loading="lazy">
+      <img src="${game.icon}" loading="lazy" />
     `;
 
     div.onclick = () => {
@@ -19,4 +26,4 @@ function render() {
   });
 }
 
-render();
+loadGames();
